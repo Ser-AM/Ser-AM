@@ -5,7 +5,7 @@
 <p></p>
 <div align="center">
   <a href="https://github.com/Ser-AM">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ser-AM&title_color=ff34234&layout=compact&langs_count=8&theme=dracula"/>
+  
 </div>
 <div align="center">
   <img src="https://tryhackme-badges.s3.amazonaws.com/SerAM.png" alt="TryHackMe">
