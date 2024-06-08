@@ -10,9 +10,7 @@
 <div align="center">
     <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=Ser-AM&title_color=ff34234&layout=compact&langs_count=8&theme=dracula"/>
 </div>
-  <div align="center">
-  <img src="https://raw.githubusercontent.com/Ser-AM/Ser-AM/main/SerAM-thm.png" alt="TryHackMe">
-</div>
+
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Ser-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ser-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
